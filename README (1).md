@@ -4,10 +4,7 @@
 
 ### End-to-End Data Analytics Solution — Python · PostgreSQL · Power BI
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
 
 </div>
 
@@ -47,24 +44,21 @@ This project delivers a **complete data analytics pipeline** for a large-scale e
 
 ```
 Large-Scale-Ecommerce-Analytics/
-│
-├── 📁 data/
-│   ├── raw/                  # Original dataset
-│   └── processed/            # Cleaned & feature-engineered data
+│       
 │
 ├── 📁 notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   └── 03_visualizations.ipynb
+│   └── ecommerce_data_cleaning.ipynb
+│  
+│   
 │
 ├── 📁 sql/
-│   └── business_queries.sql  # All SQL business analysis queries
+│   └── ecommerce_queries.sql  # All SQL business analysis queries
 │
 ├── 📁 dashboard/
 │   └── ecommerce_dashboard.pbix  # Power BI dashboard file
 │
-├── README.md
-└── requirements.txt
+├
+└── README.md
 ```
 
 ---
@@ -232,9 +226,7 @@ Built an **end-to-end data analytics solution** that:
 ## 📬 Contact
 
 **Your Name**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
+  Sahil
 
 ---
 
