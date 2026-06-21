@@ -166,36 +166,9 @@ The project includes **4 interactive dashboards**, each targeting a specific ana
 
 ---
 
-## ⚙️ Getting Started
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/Large-Scale-Ecommerce-Analytics.git
-cd Large-Scale-Ecommerce-Analytics
-```
 
-### 2. Install Python Dependencies
-```bash
-pip install -r requirements.txt
-```
 
-### 3. Set Up PostgreSQL
-```bash
-# Create database and run schema/data scripts
-psql -U postgres -c "CREATE DATABASE ecommerce;"
-psql -U postgres -d ecommerce -f sql/business_queries.sql
-```
-
-### 4. Run the Notebooks
-Open Jupyter and run the notebooks in order:
-```bash
-jupyter notebook notebooks/
-```
-
-### 5. Explore the Dashboard
-Open `dashboard/ecommerce_dashboard.pbix` in **Power BI Desktop**.
-
----
 
 ## 📦 Requirements
 
